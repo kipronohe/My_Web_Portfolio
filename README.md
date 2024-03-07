@@ -6,7 +6,7 @@ My-Portfolio
 
 
 ## Link to Live Site 
-> encok.github.io/my-portfolio/
+> https://github.com/kipronohe/My_Web_Portfolio
 
 
 ## Description
@@ -18,7 +18,7 @@ This is my programming portfolio. Hover and click on the projects for more detai
 Clone this repository and navigate to the folder.
 Run the following commands to allow functionality of the app:-
 
-git clone $ https://github.com/encok/My-Portfolio
+> git clone $ https://kipronohe.github.io/My_Web_Portfolio/
 
 
 ## Technologies Used
